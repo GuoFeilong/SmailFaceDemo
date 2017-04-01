@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SmailFaceView">
+        <attr name="smail_bg_color" format="color" />
+        <attr name="smail_bg_radio" format="dimension" />
+        <attr name="smail_face_color" format="color" />
+        <attr name="smail_face_container_color" format="color" />
+        <attr name="smail_face_eys_color" format="color" />
+    </declare-styleable>
+</resources>
